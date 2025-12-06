@@ -9,7 +9,7 @@ Part of my VibeCoding creative, experimental projects combining AI, cloud engine
 
 🚀 Features
 
-AI-powered tutoring using Gemini models
+AI-powered tutoring using latest Gemini 3 pro model.
 
 Google Cloud Run / Cloud Functions deployment
 
