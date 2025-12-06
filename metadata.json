@@ -1,0 +1,5 @@
+{
+  "name": "Insight Tutor",
+  "description": "An adaptive AI tutor that customizes learning paths based on your knowledge level and specific topics of interest.",
+  "requestFramePermissions": []
+}
